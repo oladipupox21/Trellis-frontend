@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-215-trellis-frontend-implement-runtime-secret",
+    "feat/issue-245-trellis-frontend-implement-privacy-preserving",
+    "fix/issue-253-trellis-frontend-build-multi-actor-concurrency",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-215-trellis-frontend-implement-runtime-secret": "main",
+    "feat/issue-245-trellis-frontend-implement-privacy-preserving": "main",
+    "fix/issue-253-trellis-frontend-build-multi-actor-concurrency": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-215-trellis-frontend-implement-runtime-secret",
+    "feat/issue-245-trellis-frontend-implement-privacy-preserving",
+    "fix/issue-253-trellis-frontend-build-multi-actor-concurrency",
+    "origin"
+  ]
+}
